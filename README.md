@@ -3,9 +3,9 @@ A simple client and server FTP java application
 
 For Client:
 
-usage: Client [Port #] <server-name> [-w] <file-name> [-s StartBlock] [-e LastBlock]
+usage: Client [Port #] <server_name> [-w] <file_name> [-s StartBlock] [-e LastBlock]
 
-arguments surrounded by [] can be written in any order. However, <server-name> must come before <file-name>.
+arguments surrounded by [] can be written in any order. However, <server_name> must come before <file_name>.
 
 For Server:
 
